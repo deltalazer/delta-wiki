@@ -1,13 +1,13 @@
 ---
 tags:
-  - delta!lazer team
+  - deltalazer team
   - delta team
   - staff
 ---
 
-# delta!lazer team
+# deltalazer team
 
-The people listed below make up the **delta!lazer team** and are responsible for the game, this website and the servers behind them.
+The people listed below make up the **deltalazer team** and are responsible for the game, this website and the servers behind them.
 
 | Name | Role |
 | :-- | :-- |
@@ -16,6 +16,6 @@ The people listed below make up the **delta!lazer team** and are responsible for
 | ::{ flag=US }:: [miku](/users/190) | Developer, system administrator, service maintainer, hosting provider |
 | ::{ flag=US }:: [peeblyweeb](/users/192) | Administrator, developer |
 
-delta!lazer is built on [osu!lazer](https://github.com/ppy/osu), made by the [osu! team](/wiki/People/osu!_team).
+deltalazer is built on [osu!lazer](https://github.com/ppy/osu), made by the [osu! team](/wiki/People/osu!_team).
 
 Need help? Join the [Discord community](https://discord.gg/dfPwhRtGVZ).

@@ -1,4 +1,4 @@
-# delta!lazer FAQ
+# deltalazer FAQ
 
 Find answers to common questions about delta and section gimmicks.
 
@@ -14,7 +14,7 @@ No, delta is an unofficial community project. It uses osu!lazer as a base but ad
 
 ### Can I use this for ranked play?
 
-Not on osu!'s servers. delta!lazer connects only to its own server, [delta.mikuuu.xyz](https://delta.mikuuu.xyz), which has its own accounts, leaderboards and pp. Your osu! account is never used.
+Not on osu!'s servers. deltalazer connects only to its own server, [delta.mikuuu.xyz](https://delta.mikuuu.xyz), which has its own accounts, leaderboards and pp. Your osu! account is never used.
 
 ### Where can I get help?
 
@@ -40,7 +40,7 @@ Yes! You can enable multiple gimmick groups (HP Gimmick, No Miss, Count Limits, 
 
 ### Do gimmicks affect score submission?
 
-Scores are submitted to delta!lazer's own server, never to official osu! leaderboards.
+Scores are submitted to deltalazer's own server, never to official osu! leaderboards.
 
 ### Can sections overlap?
 
@@ -180,7 +180,7 @@ Yes, but gimmicks will be stripped. osu!stable doesn't support section gimmicks,
 
 ### Do section gimmicks work in multiplayer?
 
-Section gimmicks work in local multiplayer sessions. Keep in mind that delta!lazer connects to its own server, not the official osu! servers.
+Section gimmicks work in local multiplayer sessions. Keep in mind that deltalazer connects to its own server, not the official osu! servers.
 
 ### Will delta break my existing maps?
 

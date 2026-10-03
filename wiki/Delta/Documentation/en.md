@@ -1,4 +1,4 @@
-# delta!lazer documentation
+# deltalazer documentation
 
 Learn how to use section gimmicks, hitobject controls, and all the features that make delta unique.
 
@@ -17,7 +17,7 @@ This opens up entirely new possibilities for creative mapping, including:
 
 ### Installation
 
-Download the installer from the [download page](https://delta.mikuuu.xyz/home/download). delta!lazer connects to its own server, so your osu! account is unaffected.
+Download the installer from the [download page](https://delta.mikuuu.xyz/home/download). deltalazer connects to its own server, so your osu! account is unaffected.
 
 ```
 # Windows
