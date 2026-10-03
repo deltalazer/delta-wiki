@@ -4,5 +4,6 @@
 
 - [Documentation](/wiki/Delta/Documentation): how to use section gimmicks, hitobject gimmicks and everything else that makes delta!lazer unique
 - [FAQ](/wiki/Delta/FAQ): answers to common questions about delta!lazer and section gimmicks
+- [Team](/wiki/Delta/Team): the people behind delta!lazer
 
 Need help? Join the [Discord community](https://discord.gg/dfPwhRtGVZ).
