@@ -12,7 +12,7 @@ The people listed below make up the **deltalazer team** and are responsible for 
 | Name | Role |
 | :-- | :-- |
 | **Aurora** | **Creator, project lead** |
-| ::{ flag=AE }:: [KarstenPH](/users/197) | Graphic designer |
+| ::{ flag=AE }:: [Anargon](/users/197) | Graphic designer |
 | ::{ flag=US }:: [miku](/users/190) | Developer, system administrator, service maintainer, hosting provider |
 | ::{ flag=US }:: [peeblyweeb](/users/192) | Administrator, developer |
 
